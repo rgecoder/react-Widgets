@@ -18,6 +18,10 @@ const options = [
     label: "Hindi",
     value: "hi",
   },
+  {
+    label:"Chinese",
+    value: 'zh',
+  }
 ];
 
 const Translate = () => {
